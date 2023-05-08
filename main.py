@@ -1,4 +1,4 @@
-from models.grafo import Grafo
+from controllers.grafo import Grafo
 import json
 
 # Abrir el archivo en modo lectura
