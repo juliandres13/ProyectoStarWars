@@ -30,3 +30,15 @@ createPaths(datos, 0)
 
 grafo.showVertices()
 grafo.showAristas()
+
+# git remote add origin https://github.com/juliandres13/ProyectoStarWars.git
+# git branch -M main
+# git push -u origin main
+
+# echo "# ProyectoStarWars" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/juliandres13/ProyectoStarWars.git
+# git push -u origin main
